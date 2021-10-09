@@ -1,1 +1,1 @@
-# Kwitter2.0
+# Kwitter
